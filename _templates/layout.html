@@ -1,0 +1,13 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for U.co.uk activation guide #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <meta name="google-site-verification" content="SfOIuzL9bJTnG1s15n1tw8mrW8WlYZXf4LA0cdqffuM" />
+    <meta name="msvalidate.01" content="671DFC03B959E91643B7D7567E37E46A" />
+    <meta name="description" content="Easily activate your U.co.uk account at U.co.uk/activate. Enter your activation code, register or log in, and unlock all U.co.uk features and services securely." />
+    <meta name="keywords" content="U.co.uk/activate, U.co.uk activation, account setup, activation code, U.co.uk support" />
+    <meta name="robots" content="index, follow" />
+    <title>Activate Your U.co.uk Account – Quick Setup at U.co.uk/activate</title>
+    {{ super() }}
+{% endblock %}
