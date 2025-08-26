@@ -6,17 +6,17 @@ Get Started with Full Access to Services and Secure Your Account
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://U.co.uk/activate" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://fm.ci?aHR0cHM6Ly9hY3RpdmF0ZXVjb3VrLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Activate U.co.uk Now
         </a>
     </div>
 
-Setting up and securing your U.co.uk account is simple and essential to unlock the full range of services. By visiting `U.co.uk/activate <https://U.co.uk/activate>`_, you can activate your account quickly using a secure activation code.
+Setting up and securing your U.co.uk account is simple and essential to unlock the full range of services. By visiting `U.co.uk/activate <#>`_, you can activate your account quickly using a secure activation code.
 
 What Is U.co.uk/activate and Why Is It Important?
 -------------------------------------------------
 
-`U.co.uk/activate <https://U.co.uk/activate>`_ is the official activation portal to:
+`U.co.uk/activate <#>`_ is the official activation portal to:
 
 - Verify and secure your new or existing U.co.uk account.
 
@@ -33,7 +33,7 @@ Step-by-Step Guide to Activating Your Account at U.co.uk/activate
 
 1. **Go to the Official Page**  
 
-   Open a browser and visit: `U.co.uk/activate <https://U.co.uk/activate>`_.
+   Open a browser and visit: `U.co.uk/activate <#>`_.
 
 2. **Prepare Your Activation Code**  
 
@@ -101,13 +101,13 @@ Activating your U.co.uk account at `U.co.uk/activate <https://U.co.uk/activate>`
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://U.co.uk/activate" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci?aHR0cHM6Ly9hY3RpdmF0ZXVjb3VrLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Activate U.co.uk Now
         </a>
-        <a href="https://U.co.uk/support" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci?aHR0cHM6Ly9hY3RpdmF0ZXVjb3VrLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 U.co.uk Support Center
         </a>
-        <a href="https://U.co.uk/account" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci?aHR0cHM6Ly9hY3RpdmF0ZXVjb3VrLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Manage My Account
         </a>
     </div>
